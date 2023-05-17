@@ -1,0 +1,2 @@
+# slideshow
+imagens alternadas automaticamente 
